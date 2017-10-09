@@ -1,2 +1,21 @@
-# Fall_2017_NumericalAnalysis
-Fall_2017_NumericalAnalysis
+# [Fall, 2017] CNU Numerical Analysis
+
+### Development tools : Matlab
+
+### Contents
+
+#### [Week01](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week01)
+1. Free fall
+
+#### [Week02](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week02)
+1. Calculate RMS
+2. Plot example
+
+#### [Week03](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week03)
+1. False position method
+2. Secant method
+3. Modified Secant method
+
+#### [Week04](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week04)
+1. Gold max method
+2. Secondary interpolation method
