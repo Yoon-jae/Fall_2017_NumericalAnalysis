@@ -4,12 +4,12 @@ function root = modified_secant(func, x_i, delta, es, max_it)
         x_old = x_i;
         x_i = x_i - delta * x_i * func(x_i) ...
             / (func(x_i + delta * x_i) - func(x_i));
-        disp("iter : " + iter);
+        disp('iter : ' + iter);
         iter = iter + 1;
         if x_i ~= 0
             ea = abs((x_i - x_old) / x_i) * 100;
         end
-        disp("ea : " + ea);
+        disp('ea : ' + ea);
         if ea <= es | iter >= max_it
             break
         end

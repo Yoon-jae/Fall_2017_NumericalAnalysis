@@ -22,14 +22,14 @@ function [xopt, fxopt] = secondary_interpolation(f, xl, xu, es, max_it)
               ea = abs((xopt - xoptold) / xopt) * 100;
           end
           xoptold = xopt;
-          disp("iter : " + iter);
-          disp("xopt : " + xopt);
-          disp("fxopt : " + fxopt);
+          disp('iter : ' + iter);
+          disp('xopt : ' + xopt);
+          disp('fxopt : ' + fxopt);
           if ea <= es | iter >= max_it
               break
           end
        end
     else
-       error("There is no optimal value in the range."); 
+       error('There is no optimal value in the range.'); 
     end
 end

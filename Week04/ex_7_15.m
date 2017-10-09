@@ -3,5 +3,5 @@ fx = @(t) z0 + m / c * (v0 + m * g / c) ...
     * (1 - exp(-c / m * t)) - m * g / c * t;
 
 [xopt , fxopt] = gold_max(fx, 0, 8, 0.0001, 50);
-disp("xopt : " + xopt);
-disp("fxopt : " + fxopt);
+disp('xopt : ' + xopt);
+disp('fxopt : ' + fxopt);

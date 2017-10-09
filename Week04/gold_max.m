@@ -13,12 +13,12 @@ function [x, fx] = gold_max(f, xl, xu, es, max_it)
            xu = x1;
        end
        iter = iter + 1;
-       disp("iter : " + iter);
-       disp("xopt : " + xopt);
+       disp('iter : ' + iter);
+       disp('xopt : ' + xopt);
        if xopt ~= 0
            ea = (2 - phi) * abs((xu - xl) / xopt) * 100;
        end
-       disp("ea : " + ea);
+       disp('ea : ' + ea);
        if ea <= es | iter >= max_it
            break
        end
