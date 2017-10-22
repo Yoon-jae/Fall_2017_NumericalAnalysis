@@ -19,3 +19,10 @@
 #### [Week04](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week04)
 1. Gold max method
 2. Secondary interpolation method
+
+#### [Week05](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week05)
+1. Matrix multiplication
+2. Naive LU decomposition
+3. Penta band diagonal matrix
+4. Cholesky decompostion
+5. Gauss-Seidel relaxtion
