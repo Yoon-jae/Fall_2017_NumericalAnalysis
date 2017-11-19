@@ -26,3 +26,8 @@
 3. Penta band diagonal matrix
 4. Cholesky decompostion
 5. Gauss-Seidel relaxtion
+
+#### [Week06](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week06)
+1. Power method for eigen value, eigen vector
+2. Linear regression through origin
+3. Linear regression
