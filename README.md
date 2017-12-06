@@ -34,3 +34,6 @@
 
 #### [Week07](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week07)
 1. Polynomial regression
+
+#### [Week08](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week08)
+1. Natural Spline
