@@ -37,3 +37,9 @@
 
 #### [Week08](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week08)
 1. Natural Spline
+
+#### [Week09](https://github.com/Yoon-jae/Fall_2017_NumericalAnalysis/tree/master/Week09)
+1. Trapezoidal rule
+2. Romberg differential
+3. Romberg integral(lower triangle matrix)
+4. Romberg integral(upper triangle matrix)
